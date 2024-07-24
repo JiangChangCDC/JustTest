@@ -1,0 +1,1 @@
+draw_text (x+20, y+50, "score: " + string(obj_player.player_score));
